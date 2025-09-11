@@ -1,7 +1,6 @@
 example-ml/enron-emails/data/output/
 example-ml/enron-emails/data/raw/enron_mail_20150507.tar.gz
 
-*.DS_Store
 # Byte-compiled / optimized / compiled files
 __pycache__/
 *.pyc
